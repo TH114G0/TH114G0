@@ -69,6 +69,14 @@
   </a>
 </div>
 
+## 📊 Contribuições no GitHub
+
+![Contribuições no GitHub](https://github-readme-stats.vercel.app/api?username=TH114G0&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=dark)
+
+## 🛠 Tecnologias Usadas
+
+![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=TH114G0&layout=compact&theme=dark)
+
 ## ℹ️ Sobre Mim
 
 Sou um apaixonado por tecnologia e desenvolvimento de software, sempre em busca de novos desafios e oportunidades para aprender. Atualmente, estou cursando Gestão da Tecnologia da Informação (TI) e já tenho experiência em desenvolvimento Java, além de várias ferramentas e tecnologias. Estou sempre me atualizando com as melhores práticas e tendências para me manter na vanguarda do que há de novo na área.
