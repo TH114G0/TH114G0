@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Thiago Jose
 
 🎓 **Formação Acadêmica:**
-- Gestão da Tecnologia da Informação (Centro Universitário FAM) - Cursando
+- .....
 
 ## 💻 Principais Habilidades e Conhecimentos
 
